@@ -1,0 +1,59 @@
+# 🎮 مشروع لعبة Roblox – الملف الرئيسي (Codex)
+
+## 1) معلومات اللعبة
+- اسم اللعبة: (اكتب الاسم هنا)
+- النوع: Simulator / Pets / Swords / RPG
+- عدد المناطق: 15
+
+## 2) الأنظمة الأساسية
+- Pets System
+- Swords System
+- Shop (Coins + Robux)
+- Zones / Teleport
+- Eggs
+- Monsters
+- NPC حوارات
+- Leaderboard
+- Settings (صوت + موسيقى)
+- VFX + Animations
+
+## 3) المناطق (Zones)
+1. Forest
+2. Desert
+3. Ice
+4. Cave
+5. Volcano
+6. Jungle
+7. Candy
+8. Space
+9. Lava
+10. Crystal
+11. Dark
+12. Light
+13. Tech
+14. Magic
+15. Heaven
+
+## 4) العملة
+- Coins: شراء أشياء عادية
+- Gems: من المنطقة 5 وطالع – للتطوير والأشياء الخاصة
+
+## 5) ما يسويه المساعد معي
+- Animations (سيوف + هجمات)
+- VFX (انفجارات، Trails، Glow)
+- تصميم UI بسيط
+- موديلات خفيفة إذا احتجت
+
+## 6) ما أسويه أنا
+- Core Scripts (Pets, Shop, Damage, Teleport)
+- DataStore
+- تصميم الماب والمناطق
+- نظام التقدم (Progression / Levels)
+- الدمج بين كل الأنظمة
+
+## 7) خطة تحديثات سريعة
+- Update 1: 3 مناطق + 10 سيوف + 15 Pets
+- Update 2: نظام Trading
+- Update 3: Boss Fights
+- Update 4: Guild/Clans
+- Update 5: تطوير السيوف (Evolution)
